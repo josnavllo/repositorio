@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 modificacion 3
 modificación 4
+=======
+segundo commit josep_1
+tercer commit josep_3
+cuarto commit josep_4
+>>>>>>> Rama_Josep
